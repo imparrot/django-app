@@ -8,7 +8,7 @@
 #done
 
 echo "Database is ready"
-# cd django_app
+cd django_app
 
 # prepare init migration
 python manage.py makemigrations
